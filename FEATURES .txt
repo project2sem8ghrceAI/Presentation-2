@@ -39,3 +39,5 @@ Column name: LookupAccountSidW
 Description: Least imported function (1000th)
 
 Type: 0 (Not imported) or 1 (Imported)
+
+For Schema Refered:- https://github.com/tvquynh/api_import_dataset/blob/main/full_dataset_features.csv
