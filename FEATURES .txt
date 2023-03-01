@@ -1,0 +1,41 @@
+* FEATURES *
+
+Column name:  sha256
+
+Description: SHA256 hash of the example
+
+Type: string
+
+ 
+
+Column name:  appeared
+
+Description: appeared date of the sample
+
+Type: date (yyyy-mm format)
+
+ 
+
+Column name:  label
+
+Description: specify malware or "goodware" of the sample
+
+Type: 0 ("goodware") or 1 (malware)
+
+ 
+
+Column name: GetProcAddress
+
+Description: Most imported function (1st)
+
+Type: 0 (Not imported) or 1 (Imported)
+
+ 
+
+...
+
+Column name: LookupAccountSidW
+
+Description: Least imported function (1000th)
+
+Type: 0 (Not imported) or 1 (Imported)
